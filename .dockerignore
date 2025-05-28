@@ -1,0 +1,10 @@
+tests
+test
+*.spec.js
+*.test.js
+*.spec.ts
+*.test.ts
+.git
+node_modules
+npm-debug.log
+Dockerfile
