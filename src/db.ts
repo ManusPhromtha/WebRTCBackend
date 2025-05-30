@@ -1,6 +1,6 @@
 import { Pool } from 'pg';
 
-export const pool = new Pool({
+export const db = new Pool({
   host: '143.198.94.176',
   port: 5433,
   user: 'webrtc_user',
